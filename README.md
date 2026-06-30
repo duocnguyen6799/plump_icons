@@ -4,6 +4,10 @@ Unofficial Flutter icon package for Streamline Plump Free icons.
 
 This package provides high-fidelity vector icon widgets generated from the original Streamline Plump SVG files.
 
+## Live Demo
+
+Browse and search all icons: https://duocnguyen6799.github.io/plump_icons/
+
 ## Features
 
 - Line and Solid styles

@@ -16,6 +16,12 @@ Web:
 flutter run -d chrome
 ```
 
+Production build (GitHub Pages):
+
+```bash
+flutter build web --release --base-href=/plump_icons/
+```
+
 Or use the **Example (web)** launch configuration in `.vscode/launch.json`.
 
 ## What it demonstrates
