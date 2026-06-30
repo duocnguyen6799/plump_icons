@@ -1,5 +1,7 @@
 # Plump Icons
 
+![Plump Icons banner](images/thumbnail.webp)
+
 Unofficial Flutter icon package for Streamline Plump Free icons.
 
 This package provides high-fidelity vector icon widgets generated from the original Streamline Plump SVG files.
