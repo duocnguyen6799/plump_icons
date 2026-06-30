@@ -1,6 +1,6 @@
 # Plump Icons
 
-![Plump Icons banner](images/thumbnail.webp)
+![Plump Icons banner](https://raw.githubusercontent.com/duocnguyen6799/plump_icons/main/images/thumbnail.webp)
 
 Unofficial Flutter icon package for Streamline Plump Free icons.
 

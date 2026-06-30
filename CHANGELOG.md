@@ -1,3 +1,7 @@
+## 0.0.1+2
+
+* Fix README banner image URL for pub.dev rendering.
+
 ## 0.0.1+1
 
 * Add README banner, live demo link, and pub.dev screenshot.
