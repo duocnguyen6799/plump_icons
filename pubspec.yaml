@@ -1,0 +1,34 @@
+name: plump_icons
+description: Unofficial Flutter icon package for Streamline Plump Free icons, including Line and Solid styles.
+version: 0.0.1
+license: MIT
+homepage: https://github.com/duocnguyen6799/plump_icons
+repository: https://github.com/duocnguyen6799/plump_icons
+issue_tracker: https://github.com/duocnguyen6799/plump_icons/issues
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.0.0
+  vector_graphics: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  vector_graphics_compiler: ^1.1.0
+
+flutter:
+  assets:
+    - assets/vec/line/
+    - assets/vec/solid/
+
+topics:
+  - icons
+  - svg
+  - vector-icons
+  - flutter-icons

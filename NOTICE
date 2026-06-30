@@ -1,0 +1,24 @@
+Third-Party Notices
+===================
+
+Icon Assets (CC BY 4.0)
+-----------------------
+
+This package includes icon artwork from Streamline Plump Free:
+
+- Streamline Plump Line Free
+- Streamline Plump Solid Free
+
+Copyright: Streamline
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+
+Modifications made in this package:
+
+- Converted from SVG source files to compiled `.svg.vec` runtime assets
+- Wrapped in Flutter widgets and generated Dart constants
+
+When redistributing or using these icons, comply with CC BY 4.0 attribution
+requirements for the original Streamline artwork.
+
+This package is unofficial and is not affiliated with or endorsed by Streamline.

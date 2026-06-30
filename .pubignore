@@ -1,0 +1,11 @@
+tool/svg_raw/
+build/
+.dart_tool/
+dev_docs/
+*.zip
+*.sketch
+*.fig
+*.ai
+*.psd
+node_modules/
+.DS_Store

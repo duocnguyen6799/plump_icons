@@ -1,0 +1,11 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  exclude:
+    - example/**
+    - build/**
+    - tool/svg_raw/**
+
+linter:
+  rules:
+    prefer_single_quotes: true
